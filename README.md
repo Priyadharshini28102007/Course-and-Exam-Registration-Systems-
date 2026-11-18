@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040318
+# Name: Priyadharshini E
+# Date: 18/11/26
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1021" height="832" alt="image" src="https://github.com/user-attachments/assets/13781d93-8655-4d88-8427-e7bec5792bb6" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1004" height="699" alt="image" src="https://github.com/user-attachments/assets/bc74bea6-2d25-4eb7-8147-06bca5c931a9" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1034" height="906" alt="image" src="https://github.com/user-attachments/assets/da908ee9-6515-4446-a0e3-3597de92bdd3" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="897" height="618" alt="image" src="https://github.com/user-attachments/assets/31b981c2-6594-4053-a715-04da811f1e5d" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="879" height="863" alt="image" src="https://github.com/user-attachments/assets/536111a7-e258-4249-b1d0-e382807f7a94" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="912" height="767" alt="image" src="https://github.com/user-attachments/assets/924d5670-3d47-4677-a677-2485e9d89f5d" />
 
 
 
